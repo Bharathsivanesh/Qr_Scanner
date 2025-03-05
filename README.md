@@ -25,6 +25,11 @@ Android Studio (for development & debugging)
 
 📂 Clone or Download the Project.
 
+Screenshot:
+
+![Image](https://github.com/user-attachments/assets/7a19e4a6-de5a-4272-ad41-6fa797bebc03)
+
+
 📝 Run the following command to install dependencies
 flutter pub get
 
