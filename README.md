@@ -1,16 +1,32 @@
-# library_mang
+🗺️ Flutter Barcode Scanner App
 
-A new Flutter project.
+🌟 Project Overview
 
-## Getting Started
+This Flutter Barcode Scanner App is built using Dart & Flutter to scan barcodes and display their numbers instantly. The app supports smooth page transitions and carousel-based UI elements, making it user-friendly and visually appealing
 
-This project is a starting point for a Flutter application.
+🔧 Technologies & Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+Flutter SDK (Dart)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Android Studio (for development & debugging)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📒 Features
+
+🔍 Scan Barcodes using the device camera
+
+🔢 Display Barcode Number instantly
+
+🎨 Smooth Page Transitions for better user experience
+
+🔄 Carousel UI Elements for enhanced design
+
+🔍 Installation & Setup
+🛠 Set Up Android Studio and configure an emulator or real device.
+
+📂 Clone or Download the Project.
+
+📝 Run the following command to install dependencies
+flutter pub get
+
+🎮 Run the App:
+flutter run
